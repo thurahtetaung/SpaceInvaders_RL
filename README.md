@@ -1,6 +1,7 @@
 # SpaceInvaders_RL
 A reinforcement learning agent trained to play Atari's Space Invaders game  
-![Screen](SpaceInvaderRL/screenshots/screen.png)
+
+[Screen](SpaceInvaderRL/screenshots/screen.png)
 
 
 ## Getting started
